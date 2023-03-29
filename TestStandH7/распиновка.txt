@@ -1,0 +1,17 @@
+
+Wiznet:
+
+	MISO - PA6
+	MOSI - PA7
+	SCS  - PB11 
+	SCLK - PA5
+	5V   - 5V
+	GND  - GND
+	RST  - PB12
+	INT  - PB10
+
+ssd1306(oled):
+	
+	SDA - PB7
+	SCL - PB6
+
